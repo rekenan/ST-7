@@ -49,7 +49,7 @@
 
 ## Задание №2
 
-Открыть в отдельной сессии браузера Chrome страницу по адресу [](http://www.papercdcase.com/index.php)
+Открыть в отдельной сессии браузера Chrome страницу по адресу http://www.papercdcase.com/index.php
 Содержимое страницы должно выгледеть примерно так:
 
 <img src="./images/cd.png" width="300">
