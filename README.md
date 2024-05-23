@@ -15,7 +15,7 @@
 - для браузера Google Chrome скачать расширение **xpath**
 
 
-<img src="./images/xpath.png" height="200">
+<img src="./images/xpath.png" weight="200">
 
 
 ## Задание №1
@@ -52,7 +52,7 @@
 Открыть в отдельной сессии браузера Chrome страницу по адресу ![](http://www.papercdcase.com/index.php)
 Содержимое страницы должно выгледеть примерно так:
 
-![](./images/cd.png)
+<img src="./images/cd.png" weight="300">
 
 
 
