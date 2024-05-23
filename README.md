@@ -11,10 +11,10 @@
 ## Подготовка к выполнению работы
 
 - установить браузер Google Chrome последних версий
-- скачать со страницы ![Chrome for Testing availability](https://googlechromelabs.github.io/chrome-for-testing/) версию драйвера, соответствующую установленной версии браузера
+- скачать со страницы [Chrome for Testing availability](https://googlechromelabs.github.io/chrome-for-testing/) версию драйвера, соответствующую установленной версии браузера
 - для браузера Google Chrome скачать расширение **xpath**
 
-![](./images/xpath.png)
+![](./images/xpath.png|300)
 
 
 ## Задание №1
