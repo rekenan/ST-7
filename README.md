@@ -14,7 +14,7 @@
 - скачать со страницы [Chrome for Testing availability](https://googlechromelabs.github.io/chrome-for-testing/) версию драйвера, соответствующую установленной версии браузера
 - для браузера Google Chrome скачать расширение **xpath**
 
-![](./images/xpath.png =x250)
+![](./images/xpath.png width=100)
 
 
 ## Задание №1
