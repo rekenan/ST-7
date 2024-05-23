@@ -1,4 +1,4 @@
-# ST-6 Тестирование web-приложений с использованием фрейморка Selenium (1)
+# ST-6 Тестирование web-приложений с использованием Java и фрейморка Selenium
 
 
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/UNN-CS/ST-7)
